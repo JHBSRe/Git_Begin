@@ -8,5 +8,6 @@ int main(){
 }
 
 void SayHi(){
-    printf("Hello_GitHub");
+    printf("Hello_GitHub\n");
+    puts("Commit__");
 }
