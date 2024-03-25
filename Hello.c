@@ -10,5 +10,5 @@ int main(){
 void SayHi(){
     printf("Hello_GitHub\n");
     puts("Commit__");
-    printf("update_!);
+    printf("update_!");
 }
