@@ -10,4 +10,5 @@ int main(){
 void SayHi(){
     printf("Hello_GitHub\n");
     puts("Commit__");
+    puts("email config test");
 }
